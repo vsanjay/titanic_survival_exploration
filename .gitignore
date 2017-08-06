@@ -3,3 +3,7 @@
 
 # Ada Library Information
 *.ali
+
+\.ipynb_checkpoints/titanic_survival_exploration-checkpoint\.ipynb
+
+\.DS_Store
